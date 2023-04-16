@@ -1,4 +1,4 @@
-Hi 👋 My name is Mateusz Skomorucha
+Hi 👋 My name is Mateusz
 ===================================
 
 Graphic Designer | Future UX/UI Designer
