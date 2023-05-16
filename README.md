@@ -8,7 +8,7 @@ Hi, I’m Mateusz, an e-commerce graphic designer from Gdańsk, Poland. I’m pa
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [mateszkom@gmail.com](mailto:mateszkom@gmail.com)
-* 🚀  I'm currently working on [LPP](http://lpp.com)
+* 🚀  I'm currently working at [LPP](http://lpp.com)
 * 🧠  I'm learning UX/UI, Next.JS, Typescript, Tailwind CSS
 
 ### Skills
