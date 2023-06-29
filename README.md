@@ -1,7 +1,7 @@
 Hi 👋 My name is Mateusz
 ===================================
 
-Graphic Designer | Future UX/UI Designer
+Graphic Designer
 ----------------------------------------
 
 Hi, I’m Mateusz, an e-commerce graphic designer from Gdańsk, Poland. I’m passionate about UX/UI design and aspire to become one in the future. I enjoy running, cycling and football, and I’m a loyal fan of Real Madrid. I have some coding skills, but I prefer to focus on my graphic design work for now.
