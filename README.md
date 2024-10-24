@@ -1,15 +1,11 @@
 Hi 👋 My name is Mateusz
 ===================================
 
-Graphic Designer
+Senior Graphic Designer | UX Designer
 ----------------------------------------
-
-Hi, I’m Mateusz, an e-commerce graphic designer from Gdańsk, Poland. I’m passionate about UX/UI design and aspire to become one in the future. I enjoy running, cycling and football, and I’m a loyal fan of Real Madrid. I have some coding skills, but I prefer to focus on my graphic design work for now.
-
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [mateszkom@gmail.com](mailto:mateszkom@gmail.com)
 * 🚀  I'm currently working at [LPP](http://lpp.com)
-* 🧠  I'm learning UX/UI, Next.JS, Typescript, Tailwind CSS
 
 ### Skills
 
